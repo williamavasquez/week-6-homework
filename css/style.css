@@ -1,3 +1,17 @@
  button, div, form, input {
       margin: 10px;
         }
+.BoxDiv {
+	background-color: purple;
+}
+.rating {
+	width: 100px;
+	font-size: 20px;
+	background-color: green;
+}
+
+.gifImage{
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+}
